@@ -1,4 +1,4 @@
-# Libro: Ethcal hacking para Newbies
+# Libro: Ethical hacking para Newbies
 
 ## Autor: Alejandro G Vera
 
