@@ -2,6 +2,8 @@
 
 ## Autor: Alejandro G Vera
 
+<a href="Curso+Ethical+Hacking+para+newbies+A+G+V.pdf">Descargar</a>
+
 ### Algunas capturas del booklet:
 
 <img align="center" width=70% src="captura1tapa.PNG" alt="Captura de la tapa" />
