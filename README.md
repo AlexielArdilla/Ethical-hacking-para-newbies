@@ -4,11 +4,11 @@
 
 ### Algunas capturas del booklet:
 
-<img align="center" width=100% src="captura1tapa.PNG" alt="Captura de la tapa" />
+<img align="center" width=70% src="captura1tapa.PNG" alt="Captura de la tapa" />
 
-![imagen de portada Github](captura1tapa.PNG)
+<img align="center" width=70% src="captura2foto.PNG" alt="Captura de una página" />
 
-![imagen de portada Github2](captura2foto.PNG)
+<img align="center" width=70% src="captura3kali.PNG" alt="Captura de una página Kali" />
 
-![imagen de portada Github3](captura3kali.PNG)
+### Enjoy!!!
 
