@@ -3,7 +3,7 @@
 ## Autor: Alejandro G Vera
 
 ### Algunas capturas del booklet:
-<p align="centter"> 
+<p align="center"> 
 
 ![imagen de portada Github](captura1tapa.PNG)
 
