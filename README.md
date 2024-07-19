@@ -2,7 +2,7 @@
 
 ## Autor: Alejandro G Vera
 
-<a href="Curso+Ethical+Hacking+para+newbies+A+G+V.pdf">Descargar</a>
+## <a align="center" href="Curso+Ethical+Hacking+para+newbies+A+G+V.pdf">Descargar</a>
 
 ### Algunas capturas del booklet:
 
